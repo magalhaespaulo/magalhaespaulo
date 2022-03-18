@@ -2,7 +2,7 @@
 
 I'm a Brazilian `Software Engineer` focused on `Creative Front-end development` since 2004.
 
-I want to be part of projects that can positively impact lives.
+I want to build projects that can positively impact lives.
 
 ```scss
 #magalhaes-paulo {
@@ -87,4 +87,6 @@ companyLinkElement.href = window
 [![](https://img.shields.io/badge/Twitter-__magalhaespaulo-informational?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/_magalhaespaulo)
 
 <br><br>
-`Fun fact` I was born in the same year as the number of lines in this [README](https://github.com/magalhaespaulo/magalhaespaulo/blob/main/README.md?plain=1)
+
+### Last side project:
+http://quantorende.app/
