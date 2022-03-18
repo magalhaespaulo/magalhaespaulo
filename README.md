@@ -89,4 +89,4 @@ companyLinkElement.href = window
 <br><br>
 
 ### Last side project
-http://quantorende.app/
+https://quantorende.app
