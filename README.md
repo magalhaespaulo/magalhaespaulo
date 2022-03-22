@@ -56,6 +56,7 @@ companyLinkElement.href = window
 &nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/Code-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6)
 
 ![](https://img.shields.io/badge/Toolset_for_Animations-GreenSock-informational?style=for-the-badge&logo=greensock&logoColor=white&color=88CE02)
+&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/Motion_Library-Framer_Motion-informational?style=for-the-badge&logo=framer&logoColor=white&color=d2c)
 &nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/3D_Library-Three.js-informational?style=for-the-badge&logo=threedotjs&logoColor=white&color=000000)
 
 ![](https://img.shields.io/badge/Utility--first_Framework-Tailwind_CSS-informational?style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4)
