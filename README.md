@@ -64,7 +64,10 @@ companyLinkElement.href = window
 [![](https://img.shields.io/badge/Next.js-informational?style=for-the-badge&logo=nextdotjs&logoColor=white&color=000000)](https://nextjs.org/)
 [![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=48B0F1)](https://reactjs.org/)
 [![](https://img.shields.io/badge/Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=E23237)](https://angular.io/)
+[![](https://img.shields.io/badge/GraphQL-informational?style=for-the-badge&logo=graphql&logoColor=white&color=E10098)](https://graphql.org/)
 [![](https://img.shields.io/badge/Figma-informational?style=for-the-badge&logo=figma&logoColor=white&color=000000)](https://www.figma.com/)
+
+
 
 <br><br>
 
